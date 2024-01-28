@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sky-Industrys
+- 👀 I’m interested in Research, especially surounding sustainable generation technologies, as well as the deployment of renewables and research on deployed renewables.
+- 🌱 I’m currently learning lots about electrical engineering, especially power systems.
+- 💞️ I’m looking to collaborate on smaller coding projects, field research, feasability analysis of renewable deployment, and ways to mitigate renewables drawback
+- 📫 How to reach me Email is an excelent way to contact me, but you are also welcome to message me on LinkedIn - www.linkedin.com/in/schuyler-s-h
+- ⚡ Fun fact: I started a home brewing setup recently!
